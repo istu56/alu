@@ -29,3 +29,4 @@ httpx>=0.28.1
 opencv-python
 beautifulsoup4
 numpy
+PyGithub==2.3.0
