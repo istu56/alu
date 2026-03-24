@@ -11,7 +11,7 @@ from PIL import (
     ImageFilter,
     ImageFont,
 )
-from py_yt import VideosSearch
+from youtubesearchpython import VideosSearch
 from config import YOUTUBE_IMG_URL
 def changeImageSize(maxWidth, maxHeight, image):
     widthRatio = maxWidth / image.size[0]
